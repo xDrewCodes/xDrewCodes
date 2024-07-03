@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @xDrewCodes
-- 👀 I’m interested in coding... obviously ;)
-- 🌱 I’m currently learning python. 
+Hey Im Drew, currently mastering frontend dev 
 
 <!---
 xDrewCodes/xDrewCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
