@@ -3,6 +3,7 @@ Hi, My name is Drew Allred
 
 * I'm based in North Carolina
 * You can contact me at [drew.e.allred@gmail.com](mailto:drew.e.allred@gmail.com)
+* Checkout my site <a href="https://drewallred.com">drewallred.com</a>
 
 ### Skills
 
